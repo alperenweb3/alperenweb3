@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Alperen Özkan
+AYZÖFL'02 | PA'08 | DCI | USTECH Academy
+Dreams are the shadows of the Reality. 
+#whoami 👉🏼 #webdeveloper #webdesigner #blockchaindeveloper #freelancer #selflearner
+
+- 🔭 I’m currently working on Blockchain and Web3 Development
+- 🌱 I’m currently learning React and Solidity
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: @alperenweb3 twitter
+- ⚡ Fun fact: There is no fun fact in Germany, go back to work :D 
+
 <!--
 **alperenweb3/alperenweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
