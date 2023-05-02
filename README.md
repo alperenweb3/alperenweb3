@@ -9,7 +9,7 @@
 - 📫 How to reach me: @alperenweb3 twitter
 - ⚡ Fun fact: There is no fun fact in Germany, go back to work :D 
 
-PS: I have created this github after starting my Web3 Journey. Please check my other github account [thechiefalone](https://github.com/thechiefalone) for past references. 
+PS: I have created this github after starting my Web3 Journey. Please check my other [github account](https://github.com/thechiefalone) for past references. 
 
 <!--
 **alperenweb3/alperenweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
