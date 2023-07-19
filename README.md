@@ -1,5 +1,5 @@
 ## I'm Alperen Özkan <br>
-### AYZÖFL'02 | PA'08 | DCI | USTECH Academy <br>
+### AYZÖFL'02 | PA'08 | DCI | [USTECH Academy](https://ustechacademy.org) <br>
 #### Dreams are the shadows of the Reality.<br> 
 ##### #whoami 👉🏼 #webdeveloper #webdesigner #blockchaindeveloper #freelancer #selflearner
 
