@@ -4,9 +4,10 @@
 ##### #whoami 👉🏼 #webdeveloper #webdesigner #blockchaindeveloper #freelancer #selflearner
 
 - 🔭 I’m currently working on Blockchain and Web3 Development
-- 🌱 I’m currently learning React and Solidity
+- 🌱 I’m currently developing with React and Solidity
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: @alperenweb3 twitter
+- 😄 Fun of WordPress, don't be disloyal!
+- 📫 How to reach me: @alperenweb3 [Linkedin](https://linkedin.com/in/alperenozkan) | [Twitter](https://twitter.com/alperenweb3) | [Instagram](https://instagram.com/alperenweb3)
 - ⚡ Fun fact: There is no fun fact in Germany, go back to work :D 
 
 PS: I have created this github after starting my Web3 Journey. Please check my other [github account](https://github.com/thechiefalone) for past references. 
