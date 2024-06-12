@@ -10,8 +10,6 @@
 - 📫 How to reach me: @alperenweb3 [Linkedin](https://linkedin.com/in/alperenozkan) | [Twitter](https://twitter.com/alperenweb3) | [Instagram](https://instagram.com/alperenweb3)
 - ⚡ Fun fact: There is no fun fact in Germany, go back to work :D 
 
-PS: I have created this github after starting my Web3 Journey. Please check my other [github account](https://github.com/thechiefalone) for past references. 
-
 <!--
 **alperenweb3/alperenweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
