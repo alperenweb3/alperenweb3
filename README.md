@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Blockchain and Web3 Development
 - 🌱 I’m currently developing with React and Solidity
 - 💬 Ask me about JavaScript
-- 😄 Fun of WordPress, don't be disloyal!
+- 😄 Fan of WordPress, don't be disloyal!
 - 📫 How to reach me: @alperenweb3 [Linkedin](https://linkedin.com/in/alperenozkan) | [Twitter](https://twitter.com/alperenweb3) | [Instagram](https://instagram.com/alperenweb3)
 - ⚡ Fun fact: There is no fun fact in Germany, go back to work :D 
 
