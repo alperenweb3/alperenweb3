@@ -3,8 +3,8 @@
 #### Dreams are the shadows of the Reality.<br> 
 ##### #whoami 👉🏼 #webdeveloper #webdesigner #blockchaindeveloper #freelancer #selflearner
 
-- 🔭 I’m currently working on Blockchain and Web3 Development
-- 🌱 I’m currently developing with React and Solidity
+- 🔭 I’m currently working as Software Developer
+- 🌱 I’m currently developing with React.JS
 - 💬 Ask me about JavaScript
 - 😄 Fan of WordPress, don't be disloyal!
 - 📫 How to reach me: @alperenweb3 [Linkedin](https://linkedin.com/in/alperenozkan) | [Twitter](https://twitter.com/alperenweb3) | [Instagram](https://instagram.com/alperenweb3)
